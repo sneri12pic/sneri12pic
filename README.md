@@ -1,38 +1,23 @@
 # Hi, I'm Stepan Demianenko
 
-Graduate Software Engineer based in Edinburgh, focused on Android development, backend engineering, and building practical full-stack projects.
+Graduate Software Engineer based in Edinburgh, focused on Android/Kotlin, backend development, and practical full-stack projects.
 
-I like projects where I can connect clean architecture, real user workflows, databases, APIs, and deployment/CI rather than just making small isolated demos.
+## Tech I use
 
-## Currently working on
-
-- Improving my Android/Kotlin fitness app with better architecture, testing, and user experience
-- Building backend/API projects with Python and TypeScript
-- Strengthening my portfolio for graduate software engineering roles
-
-## Main tech
-
-**Languages:** Kotlin, Python, Java, TypeScript, Dart, C#  
-**Mobile:** Android, Jetpack Compose, Flutter  
-**Backend:** FastAPI, REST APIs, SQL, authentication, security basics  
-**Tools:** Git, GitHub Actions, Docker, Linux
+Kotlin · Android · Jetpack Compose · Python · Java · TypeScript · Dart · SQL · REST APIs · Git · Docker
 
 ## Featured projects
 
-### Fitness App
-Android/Kotlin fitness tracking app focused on workout planning, progress tracking, and clean mobile UI.
+- **Fitness App** — Android/Kotlin fitness tracking app focused on workout planning and progress tracking.
+- **HabitMaker** — Flutter habit-building app with XP/levels, local persistence, and clean architecture.
+- **SecureDev** — secure development coursework project focused on finding and fixing web app vulnerabilities.
+- **Portfolio** — personal developer portfolio built with TypeScript.
 
-### SecureDev
-Secure development coursework project focused on identifying and mitigating vulnerabilities in a banking-style web application.
+## Looking for
 
-### Portfolio
-Personal developer portfolio built with TypeScript to present projects, experience, and contact details.
+Graduate or junior software engineering roles, especially Android, backend, full-stack, or general software development.
 
-## What I'm looking for
+## Links
 
-Graduate or junior software engineering roles, especially in backend, Android, full-stack, or general software development.
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/stepan-demianenko-397579298/
 - Portfolio: https://stepandemianenko.dev/
+- LinkedIn: https://www.linkedin.com/in/stepan-demianenko-397579298/
