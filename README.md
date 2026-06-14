@@ -57,14 +57,22 @@ I care about readable code, clear architecture, maintainable systems, and learni
 
 ---
 
-### Featured projects
+### Things I've built
 
-| Project | Focus |
-| --- | --- |
-| **Fitness App** | Android/Kotlin fitness tracking app for workout planning and progress tracking |
-| **HabitMaker** | Flutter habit-building app with XP/levels, local persistence, and clean architecture |
-| **SecureDev** | Secure development coursework focused on finding and fixing web app vulnerabilities |
-| **Portfolio** | Personal developer portfolio built with TypeScript |
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [FitnessApp](https://github.com/sneri12pic/FitnessApp) | Android fitness tracker with calorie goals, workout categories, profile settings, workout history, and Room-based local persistence | Kotlin, Android, Room |
+| [HabitMaker](https://github.com/sneri12pic/HabitMaker) | Gamified habit-building app with XP/levels, local persistence, and a clean architecture practice focus | Flutter, Dart, Riverpod |
+| [SecureDev](https://github.com/sneri12pic/SecureDev) | Hardened a vulnerable Java banking app against SQL injection, XSS, CSRF, session fixation, unsafe uploads, and admin access flaws | Java, Jetty, SQLite, Security |
+| [NapierScanner](https://github.com/sneri12pic/NapierScanner) | Hackathon-style scanner that reads check-in codes with OCR and automates the Napier check-in flow | Python, Selenium, OpenCV, Tesseract |
+| [JPMC Forage Midas](https://github.com/sneri12pic/forage-midas) | Advanced Software Engineering virtual experience project focused on backend/event-driven engineering tasks | Java, Spring, Kafka, H2 |
+| [Portfolio](https://github.com/sneri12pic/portfolio) | Personal developer portfolio for presenting projects, experience, and contact links | TypeScript |
+
+---
+
+### Awards
+
+- **1st place** — Edinburgh Napier University Hackathon, 2023
 
 ---
 
