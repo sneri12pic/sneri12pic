@@ -61,12 +61,11 @@ I care about readable code, clear architecture, maintainable systems, and learni
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [FitnessApp](https://github.com/sneri12pic/FitnessApp) | Android fitness tracker with calorie goals, workout categories, profile settings, workout history, and Room-based local persistence | Kotlin, Android, Room |
-| [HabitMaker](https://github.com/sneri12pic/HabitMaker) | Gamified habit-building app with XP/levels, local persistence, and a clean architecture practice focus | Flutter, Dart, Riverpod |
-| [SecureDev](https://github.com/sneri12pic/SecureDev) | Hardened a vulnerable Java banking app against SQL injection, XSS, CSRF, session fixation, unsafe uploads, and admin access flaws | Java, Jetty, SQLite, Security |
-| [NapierScanner](https://github.com/sneri12pic/NapierScanner) | Hackathon-style scanner that reads check-in codes with OCR and automates the Napier check-in flow | Python, Selenium, OpenCV, Tesseract |
-| [JPMC Forage Midas](https://github.com/sneri12pic/forage-midas) | Advanced Software Engineering virtual experience project focused on backend/event-driven engineering tasks | Java, Spring, Kafka, H2 |
-| [Portfolio](https://github.com/sneri12pic/portfolio) | Personal developer portfolio for presenting projects, experience, and contact links | TypeScript |
+| [SDT Fitness App](https://github.com/sneri12pic/sdt-fitness-app) | Android workout tracker with routine planning, active workout logging, progress screens, Health Connect metrics, guest mode, and optional account-based auth API | Kotlin, Jetpack Compose, Room, Ktor, H2/PostgreSQL |
+| [SecureDev](https://github.com/sneri12pic/SecureDev) | Hardened a vulnerable Java banking app against SQL injection, XSS, CSRF, session fixation, unsafe uploads, parameter tampering, and unauthenticated admin actions | Java, Jetty, SQLite, Web Security |
+| [Okta Dashboard Backend](https://github.com/sneri12pic/okta-dashboard-back) | Django backend for security dashboards with Okta OIDC login, DPoP-enabled system log ingestion, analytics APIs, background jobs, and Prometheus metrics | Python, Django REST, MongoDB, Redis, Docker |
+| [SystemArchitecture / DE-Store](https://github.com/sneri12pic/SystemArchitecture) | Service-oriented store management prototype with API gateway, pricing, inventory, loyalty, finance, reporting, notifications, and optional Kafka event flow | Java, Spring Boot, PostgreSQL, Kafka, Docker |
+| [Music And Notes](https://github.com/sneri12pic/Music-And-Notes) | Browser app for music playback, note writing with basic formatting, PDF viewing, and resizable multi-panel layout | JavaScript, HTML, CSS, Bootstrap |
 
 ---
 
