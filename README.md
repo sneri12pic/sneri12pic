@@ -4,9 +4,9 @@ Graduate Software Engineer based in Edinburgh, focused on Android/Kotlin, backen
 
 ## Tech I use
 
-**Android:** Kotlin · Jetpack Compose  
-**Backend / Web:** Python · Java · SQL · REST APIs · FastAPI  
-**Tools:** Git · Docker · GitHub Actions
+**Android:** Kotlin · Jetpack Compose · MVVM · Coroutines 
+**Backend / Web:** Python · Java · SQL · REST APIs · FastAPI · Kafka · H2
+**Tools:** Git · Docker · GitHub Actions · CI/CD
 
 ## Featured projects
 
