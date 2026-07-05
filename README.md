@@ -61,6 +61,7 @@ I care about readable code, clear architecture, maintainable systems, and learni
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [FocusTrace](https://github.com/sneri12pic/activityTracker) | Local-first screen-time tracker and app blocker for Android with guided onboarding, soft daily limits, schedules, a bubble usage dashboard, and a signed Play-ready release pipeline | Flutter, Dart, Riverpod, SQLite, Kotlin, GitHub Actions |
 | [SDT Fitness App](https://github.com/sneri12pic/sdt-fitness-app) | Android workout tracker with routine planning, active workout logging, progress screens, Health Connect metrics, guest mode, and optional account-based auth API | Kotlin, Jetpack Compose, Room, Ktor, H2/PostgreSQL |
 | [Midas Core](https://github.com/sneri12pic/forage-midas) | Transaction-processing microservice built for the JPMorgan Chase Advanced Software Engineering job simulation on Forage, consuming Kafka transfers, validating balances, applying REST incentives, and exposing balance queries | Java, Spring Boot, Kafka, JPA, H2, REST |
 | [SecureDev](https://github.com/sneri12pic/SecureDev) | Hardened a vulnerable Java banking app against SQL injection, XSS, CSRF, session fixation, unsafe uploads, parameter tampering, and unauthenticated admin actions | Java, Jetty, SQLite, Web Security |
