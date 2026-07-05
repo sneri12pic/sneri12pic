@@ -61,11 +61,11 @@ I care about readable code, clear architecture, maintainable systems, and learni
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [FocusTrace](https://github.com/sneri12pic/activityTracker) | Local-first screen-time tracker and app blocker for Android with guided onboarding, soft daily limits, schedules, a bubble usage dashboard, and a signed Play-ready release pipeline | Flutter, Dart, Riverpod, SQLite, Kotlin, GitHub Actions |
 | [SDT Fitness App](https://github.com/sneri12pic/sdt-fitness-app) | Android workout tracker with routine planning, active workout logging, progress screens, Health Connect metrics, guest mode, and optional account-based auth API | Kotlin, Jetpack Compose, Room, Ktor, H2/PostgreSQL |
+| [FocusTrace](https://github.com/sneri12pic/activityTracker) | Local-first screen-time tracker and app blocker for Android with guided onboarding, soft daily limits, schedules, a bubble usage dashboard, and a signed Play-ready release pipeline | Flutter, Dart, Riverpod, SQLite, Kotlin, GitHub Actions |
 | [Midas Core](https://github.com/sneri12pic/forage-midas) | Transaction-processing microservice built for the JPMorgan Chase Advanced Software Engineering job simulation on Forage, consuming Kafka transfers, validating balances, applying REST incentives, and exposing balance queries | Java, Spring Boot, Kafka, JPA, H2, REST |
-| [SecureDev](https://github.com/sneri12pic/SecureDev) | Hardened a vulnerable Java banking app against SQL injection, XSS, CSRF, session fixation, unsafe uploads, parameter tampering, and unauthenticated admin actions | Java, Jetty, SQLite, Web Security |
 | [Okta Dashboard Backend](https://github.com/sneri12pic/okta-dashboard-back) | Django backend for security dashboards with Okta OIDC login, DPoP-enabled system log ingestion, analytics APIs, background jobs, and Prometheus metrics | Python, Django REST, MongoDB, Redis, Docker |
+| [SecureDev](https://github.com/sneri12pic/SecureDev) | Hardened a vulnerable Java banking app against SQL injection, XSS, CSRF, session fixation, unsafe uploads, parameter tampering, and unauthenticated admin actions | Java, Jetty, SQLite, Web Security |
 | [SystemArchitecture / DE-Store](https://github.com/sneri12pic/SystemArchitecture) | Service-oriented store management prototype with API gateway, pricing, inventory, loyalty, finance, reporting, notifications, and optional Kafka event flow | Java, Spring Boot, PostgreSQL, Kafka, Docker |
 | [Music And Notes](https://github.com/sneri12pic/Music-And-Notes) | Browser app for music playback, note writing with basic formatting, PDF viewing, and resizable multi-panel layout | JavaScript, HTML, CSS, Bootstrap |
 
