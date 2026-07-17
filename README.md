@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://stepandemianenko.dev/" title="Portfolio">
-    <img src="https://raw.githubusercontent.com/sneri12pic/portfolio/master/public/iconPortfolioWeb.jpg" alt="Portfolio" width="56" height="56" />
+    <img src="https://raw.githubusercontent.com/sneri12pic/portfolio/master/public/iconPortfolioWeb.jpg" alt="Portfolio" width="30" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/stepan-demianenko-397579298/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" height="56" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
 </p>
 
