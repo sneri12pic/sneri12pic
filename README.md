@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://stepandemianenko.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-stepandemianenko.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://stepandemianenko.dev/" title="Portfolio">
+    <img src="https://raw.githubusercontent.com/sneri12pic/portfolio/master/public/iconPortfolioWeb.jpg" alt="Portfolio" width="56" height="56" />
   </a>
-  <a href="https://www.linkedin.com/in/stepan-demianenko-397579298/">
-    <img src="https://img.shields.io/badge/LinkedIn-Stepan%20Demianenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/stepan-demianenko-397579298/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" height="56" />
   </a>
 </p>
 
