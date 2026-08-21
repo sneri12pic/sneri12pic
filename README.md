@@ -72,7 +72,7 @@ I care about readable code, clear architecture, maintainable systems, and learni
 
 ---
 
-### Awards
+### 🏆 Awards
 
 - **1st place** — Edinburgh Napier University Hackathon, 2023
 
